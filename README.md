@@ -92,5 +92,5 @@ imagen ilustrativa.
 
 fonte usada:
 
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
+[Laço](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
