@@ -13,7 +13,9 @@ estilisar e mostrar uma mensagem onde mostrara quantos tipos de musica você esc
  * ### var:
  O elemento var em JavaScript é usado para declarar uma variável. Vamos analisar como ele é usado no seu exemplo
 
-![](var.png)
+ ```
+var numeroSelecionadas = 0;
+ ```
 
 Aqui, var numeroSelecionadas = 0; faz duas coisas:
 
