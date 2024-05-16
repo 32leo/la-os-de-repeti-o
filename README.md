@@ -3,6 +3,8 @@ esse site foi criado para você escutar suas musicas favorias, tendo varios esti
 estilisar e mostrar uma mensagem onde mostrara quantos tipos de musica você escolheo, tendo como nome weezer onde podera escutar suas musicas offline para poder curtir suas musicas favorias em todo momento.
 
 
+![](weezer.png)
+
 # javaScript
  
  # elementos usados 
@@ -68,5 +70,22 @@ No código fornecido, btn é uma variável que representa um elemento HTML com o
  ```
   btn.addEventListener("click", function () {
   ```
+  Essa linha utiliza o método document.getElementById() para selecionar um elemento HTML pelo seu ID. O elemento selecionado é então atribuído à variável btn.
 
+Normalmente, essa variável btn é usada para adicionar um evento de clique ao botão correspondente
+
+* ## alert 
+A função alert() em JavaScript é usada para exibir uma caixa de diálogo com uma mensagem para o usuário. No contexto do seu código, a função alert() está sendo usada para mostrar uma mensagem contendo o total de opções selecionadas em um elemento select.
+
+ ```
+  alert(
+  ```
+String fixa: "Total de opções selecionadas: ".
+Resultado da função howMany(): O resultado da função howMany() é concatenado à string fixa para formar a mensagem completa.
+Portanto, quando essa linha de código é executada, uma caixa de diálogo será exibida com a mensagem "Total de opções selecionadas: " seguida pelo número de opções selecionadas no elemento select com o nome "tipoMusica".
+
+![](jstp.png)
+
+
+imagen ilustrativa.
 
