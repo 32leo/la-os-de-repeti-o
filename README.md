@@ -9,6 +9,9 @@ estilisar e mostrar uma mensagem onde mostrara quantos tipos de musica você esc
  
  * ### function:
  O elemento function no JavaScript é usado para definir uma função. No código fornecido, ele é usado para definir a função howMany, que conta o número de opções selecionadas em um elemento select,Portanto, a função howMany é definida para calcular o número de opções selecionadas em um elemento select, e você pode chamar essa função passando o elemento select como argumento. 
+ ```
+ function howMany(selectObject) {
+ ```
 
  * ### var:
  O elemento var em JavaScript é usado para declarar uma variável. Vamos analisar como ele é usado no seu exemplo
