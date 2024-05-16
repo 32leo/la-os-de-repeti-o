@@ -89,3 +89,8 @@ Portanto, quando essa linha de código é executada, uma caixa de diálogo será
 
 imagen ilustrativa.
 
+
+fonte usada:
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
+
